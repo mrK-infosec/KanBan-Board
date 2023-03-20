@@ -5,6 +5,8 @@ A kanban board is an agile project management tool designed to help visualize wo
 ## Technologies I used :
 
 - **[ HTML , CSS , Flex-Box , Vanilla JavaScript , Touch & Darg Events ]**
+- ### [🔗 Live Demo link](https://mrk-infosec.github.io/KanBan-Board/)
+
 
 ## Features :
 
